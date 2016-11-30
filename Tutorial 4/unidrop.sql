@@ -1,0 +1,7 @@
+DROP TABLE schedclass PURGE;
+DROP TABLE enrolment PURGE;
+DROP TABLE offering PURGE;
+DROP TABLE student PURGE;
+DROP TABLE staff PURGE;
+DROP TABLE prereq PURGE;
+DROP TABLE unit PURGE;
