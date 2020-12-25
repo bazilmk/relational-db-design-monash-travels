@@ -12,4 +12,4 @@ This repository consists of the following:
 
 ## Screenshots
 
-![Physical Data Model](Relational%20Database%20System/images/Physical%20Data%20Model.png?raw=true "Optional Title")
+![Physical Data Model](Relational%20Database%20System/images/Physical%20Data%20Model.png?raw=true "Physical Data Model")
