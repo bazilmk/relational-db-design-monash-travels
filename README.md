@@ -4,8 +4,12 @@ This repository consists of the following:
 
 1. Monash Travel & Tours Relational database design and code: The database was modelled and designed using Oracle SQL Developer. It consists of the following output:
    - Normalisation 
-   - Logical Model
+   - Physical Data Model
    - Schema
    - Assumptions made
+   
+## Screenshots
+
+![Alt text](/Relational Database System/images/Physical Data Model.png?raw=true "Optional Title")
 
 2. SQL code for exercise sets using Oracle SQL Developer.
