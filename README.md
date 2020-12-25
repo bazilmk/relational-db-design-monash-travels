@@ -8,8 +8,8 @@ This repository consists of the following:
    - Schema
    - Assumptions made
    
+2. SQL code for exercise sets using Oracle SQL Developer.
+
 ## Screenshots
 
-![Alt text](Relational%20Database%20System/images/Physical%20Data%20Model.png?raw=true "Optional Title")
-
-2. SQL code for exercise sets using Oracle SQL Developer.
+![Physical Data Model](Relational%20Database%20System/images/Physical%20Data%20Model.png?raw=true "Optional Title")
