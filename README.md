@@ -10,6 +10,6 @@ This repository consists of the following:
    
 ## Screenshots
 
-![Alt text](/Relational Database System/images/Physical Data Model.png?raw=true "Optional Title")
+![Alt text](relational-db-design-monash-travels/Relational Database System/images/Physical Data Model.png?raw=true "Optional Title")
 
 2. SQL code for exercise sets using Oracle SQL Developer.
